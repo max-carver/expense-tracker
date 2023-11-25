@@ -1,8 +1,7 @@
-import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { Auth } from './pages/auth/index'
 import { ExpenseTracker } from './pages/expense-tracker/index'
-
+import './index.css'
 
 function App() {
 
